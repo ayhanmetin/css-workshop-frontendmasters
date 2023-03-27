@@ -1,1 +1,5 @@
-# Bootcamp Project Portfolio Website: ayhanmetin.github.io
+# 
+
+Personal site & blog: 
+
+ayhanmetin.github.io
